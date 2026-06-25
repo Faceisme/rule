@@ -1,0 +1,11 @@
+DOMAIN,access-sngapm.qcloud.com
+DOMAIN,access-sngapm.qcloud.com
+DOMAIN,appcloud.zhihu.com
+DOMAIN,appcloud2.in.zhihu.com
+DOMAIN,crash2.zhihu.com
+DOMAIN,mqtt.zhihu.com
+DOMAIN,sugar.zhihu.com
+URL-REGEX,^https?:\/\/api\.zhihu\.com\/brand\/question\/\d+/card\?
+URL-REGEX,^https?:\/\/api\.zhihu\.com\/commercial_api\/launch_v2\?
+URL-REGEX,^https?:\/\/api\.zhihu\.com\/commercial_api\/real_time_launch_v2\?
+URL-REGEX,^https?:\/\/www\.zhihu\.com\/api\/v\d+\/brand\/question/\d+/card\?
