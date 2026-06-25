@@ -1,0 +1,227 @@
+# =========================
+
+# Japan R18 / AV / Local IP Restricted
+
+# Policy: JP
+
+# Reviewed: merged and de-duplicated
+
+# =========================
+
+# =========================
+
+# DMM / FANZA - Must JP
+
+# 日本 IP 限制，强制走 JP
+
+# =========================
+
+DOMAIN-SUFFIX,dmm.com,JP
+DOMAIN-SUFFIX,dmm.co.jp,JP
+DOMAIN-SUFFIX,dmm-extension.com,JP
+DOMAIN-SUFFIX,fanza.jp,JP
+DOMAIN-KEYWORD,dmm,JP
+DOMAIN-KEYWORD,fanza,JP
+
+# =========================
+
+# Japan AV / R18 Core Platforms
+
+# =========================
+
+DOMAIN-SUFFIX,mgstage.com,JP
+DOMAIN-SUFFIX,prestige-av.com,JP
+DOMAIN-SUFFIX,sod.co.jp,JP
+DOMAIN-SUFFIX,sodprime.com,JP
+DOMAIN-SUFFIX,sodland.jp,JP
+DOMAIN-SUFFIX,faleno.jp,JP
+DOMAIN-SUFFIX,minnano-av.com,JP
+DOMAIN-SUFFIX,shirouto.tv,JP
+DOMAIN-SUFFIX,docchi.jp,JP
+
+# =========================
+
+# Major AV Studios / Labels
+
+# =========================
+
+DOMAIN-SUFFIX,s1s1s1.com,JP
+DOMAIN-SUFFIX,ideapocket.com,JP
+DOMAIN-SUFFIX,moodyz.com,JP
+DOMAIN-SUFFIX,attackers.net,JP
+DOMAIN-SUFFIX,madonna-av.com,JP
+DOMAIN-SUFFIX,kawaiikawaii.jp,JP
+DOMAIN-SUFFIX,premium-beauty.com,JP
+DOMAIN-SUFFIX,e-body.co.jp,JP
+DOMAIN-SUFFIX,av-e-body.com,JP
+DOMAIN-SUFFIX,oppai-av.com,JP
+DOMAIN-SUFFIX,wanz-factory.com,JP
+DOMAIN-SUFFIX,dasdas.jp,JP
+DOMAIN-SUFFIX,kira-kira.jp,JP
+DOMAIN-SUFFIX,fitch-av.com,JP
+DOMAIN-SUFFIX,tameikegoro.jp,JP
+DOMAIN-SUFFIX,muku.tv,JP
+DOMAIN-SUFFIX,rookie-av.jp,JP
+DOMAIN-SUFFIX,honnaka.jp,JP
+DOMAIN-SUFFIX,bibian-av.com,JP
+DOMAIN-SUFFIX,hibiki-site.com,JP
+DOMAIN-SUFFIX,nagae-style.com,JP
+DOMAIN-SUFFIX,gloryquest.co.jp,JP
+DOMAIN-SUFFIX,giga-web.jp,JP
+DOMAIN-SUFFIX,realworks.tv,JP
+DOMAIN-SUFFIX,alicejapan.co.jp,JP
+DOMAIN-SUFFIX,max-a.co.jp,JP
+DOMAIN-SUFFIX,hmp.jp,JP
+DOMAIN-SUFFIX,aurora-pro.com,JP
+DOMAIN-SUFFIX,tma.co.jp,JP
+DOMAIN-SUFFIX,maxing.jp,JP
+DOMAIN-SUFFIX,million-movie.jp,JP
+DOMAIN-SUFFIX,dream-ticket.net,JP
+DOMAIN-SUFFIX,planetplus.jp,JP
+DOMAIN-SUFFIX,bi-av.com,JP
+DOMAIN-SUFFIX,naturalhigh.co.jp,JP
+DOMAIN-SUFFIX,rocket-inc.net,JP
+DOMAIN-SUFFIX,waap.co.jp,JP
+DOMAIN-SUFFIX,kmp.jp,JP
+
+# =========================
+
+# Uncensored / JP Adult Streaming
+
+# =========================
+
+DOMAIN-SUFFIX,caribbeancom.com,JP
+DOMAIN-SUFFIX,caribbeancompr.com,JP
+DOMAIN-SUFFIX,1pondo.tv,JP
+DOMAIN-SUFFIX,10musume.com,JP
+DOMAIN-SUFFIX,pacopacomama.com,JP
+DOMAIN-SUFFIX,heyzo.com,JP
+DOMAIN-SUFFIX,tokyo-hot.com,JP
+DOMAIN-SUFFIX,h0930.com,JP
+DOMAIN-SUFFIX,c0930.com,JP
+DOMAIN-SUFFIX,g-area.org,JP
+DOMAIN-SUFFIX,xxx-av.com,JP
+
+# =========================
+
+# AV Database / Search / Wiki
+
+# =========================
+
+DOMAIN-SUFFIX,javlibrary.com,JP
+DOMAIN-SUFFIX,javbus.com,JP
+DOMAIN-SUFFIX,javdb.com,JP
+DOMAIN-SUFFIX,av-wiki.net,JP
+DOMAIN-SUFFIX,urabon-navigator.com,JP
+DOMAIN-SUFFIX,av-fan.com,JP
+DOMAIN-SUFFIX,seesaawiki.jp,JP
+
+# =========================
+
+# Adult VR
+
+# =========================
+
+DOMAIN-SUFFIX,adult-vr.jp,JP
+DOMAIN-SUFFIX,vradult.jp,JP
+DOMAIN-KEYWORD,javvr,JP
+DOMAIN-KEYWORD,avvr,JP
+DOMAIN-KEYWORD,vr-av,JP
+
+# =========================
+
+# Doujin / Hentai / Adult Manga
+
+# =========================
+
+DOMAIN-SUFFIX,dlsite.com,JP
+DOMAIN-SUFFIX,dlsite.jp,JP
+DOMAIN-SUFFIX,ci-en.net,JP
+DOMAIN-SUFFIX,fantia.jp,JP
+DOMAIN-SUFFIX,melonbooks.co.jp,JP
+DOMAIN-SUFFIX,toranoana.jp,JP
+DOMAIN-SUFFIX,tora-r18.jp,JP
+DOMAIN-SUFFIX,komiflo.com,JP
+DOMAIN-SUFFIX,hitomi.la,JP
+DOMAIN-SUFFIX,nhentai.net,JP
+DOMAIN-SUFFIX,e-hentai.org,JP
+DOMAIN-SUFFIX,exhentai.org,JP
+
+# =========================
+
+# Gravure / Idol Adjacent
+
+# =========================
+
+DOMAIN-SUFFIX,digi-gra.net,JP
+DOMAIN-SUFFIX,graphis.ne.jp,JP
+DOMAIN-SUFFIX,image.tv,JP
+DOMAIN-SUFFIX,sabra.net,JP
+
+# =========================
+
+# Live Chat / Adult Service Adjacent
+
+# =========================
+
+DOMAIN-SUFFIX,j-live.tv,JP
+DOMAIN-SUFFIX,dxlive.com,JP
+DOMAIN-SUFFIX,bb-chat.tv,JP
+DOMAIN-SUFFIX,angel-live.com,JP
+DOMAIN-SUFFIX,macherie.tv,JP
+
+# =========================
+
+# Japan IP Restricted / Japan Local Streaming
+
+# 不全是成人站，但常见日本地区限制服务
+
+# =========================
+
+# ---------- ABEMA ----------
+
+DOMAIN-SUFFIX,abema.tv,JP
+DOMAIN-SUFFIX,abema.io,JP
+DOMAIN-SUFFIX,ameba.jp,JP
+DOMAIN-SUFFIX,amebaownd.com,JP
+DOMAIN-KEYWORD,abema,JP
+
+# ---------- TVer ----------
+
+DOMAIN-SUFFIX,tver.jp,JP
+DOMAIN-KEYWORD,tver,JP
+
+# ---------- radiko ----------
+
+DOMAIN-SUFFIX,radiko.jp,JP
+DOMAIN-SUFFIX,radionikkei.jp,JP
+DOMAIN-KEYWORD,radiko,JP
+
+# ---------- Niconico ----------
+
+DOMAIN-SUFFIX,nicovideo.jp,JP
+DOMAIN-SUFFIX,nimg.jp,JP
+DOMAIN-SUFFIX,nicoseiga.jp,JP
+DOMAIN-SUFFIX,nicoad.jp,JP
+
+# ---------- Hulu Japan ----------
+
+DOMAIN-SUFFIX,hulu.jp,JP
+DOMAIN-SUFFIX,hjholdings.jp,JP
+
+# ---------- U-NEXT / H-NEXT ----------
+
+DOMAIN-SUFFIX,unext.jp,JP
+DOMAIN-SUFFIX,unext.co.jp,JP
+DOMAIN-SUFFIX,hnext.jp,JP
+
+# ---------- WOWOW ----------
+
+DOMAIN-SUFFIX,wowow.co.jp,JP
+
+# ---------- TELASA / Lemino / FOD ----------
+
+DOMAIN-SUFFIX,telasa.jp,JP
+DOMAIN-SUFFIX,lemino.docomo.ne.jp,JP
+DOMAIN-SUFFIX,fod.fujitv.co.jp,JP
+DOMAIN-SUFFIX,fujitv.co.jp,JP
