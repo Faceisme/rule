@@ -1,0 +1,67 @@
+# NAME: Apple-Select
+# AUTHOR: Merged by ChatGPT
+# UPDATED: 2026-06-26
+# DESCRIPTION: Merged from no-cn-cdn-domain.list and update-domain.list; exact duplicates removed.
+# SOURCE: https://github.com/Elysian-Realme/FuGfConfig/tree/main/ConfigFile/Surge/Apple
+
+DOMAIN,apple-relay.apple.com,extended-matching
+DOMAIN,apple-relay.fastly-edge.com,extended-matching
+DOMAIN,apple.comscoreresearch.com,extended-matching
+DOMAIN,cdn.apple-cloudkit.com,extended-matching
+DOMAIN,cvws.icloud-content.com,extended-matching
+DOMAIN,developer.apple.com,extended-matching
+DOMAIN,devimages-cdn.apple.com,extended-matching
+DOMAIN,devstreaming-cdn.apple.com,extended-matching
+DOMAIN,docs-assets.developer.apple.com,extended-matching
+DOMAIN,gspe1-ssl.ls.apple.com,extended-matching
+DOMAIN,hls-svod.itunes.apple.com,extended-matching
+DOMAIN,js-cdn.music.apple.com,extended-matching
+DOMAIN,mask-api.fe.apple-dns.net,extended-matching
+DOMAIN,mask-api.icloud.com,extended-matching
+DOMAIN,mask-h2.icloud.com,extended-matching
+DOMAIN,mask-t.apple-dns.net,extended-matching
+DOMAIN,mask.apple-dns.net,extended-matching
+DOMAIN,mask.icloud.com,extended-matching
+DOMAIN,news-assets.apple.com,extended-matching
+DOMAIN,news-client.apple.com,extended-matching
+DOMAIN,news-edge.apple.com,extended-matching
+DOMAIN,news-events.apple.com,extended-matching
+DOMAIN,np-edge.itunes.apple.com,extended-matching
+DOMAIN,play-edge.itunes.apple.com,extended-matching
+DOMAIN,sandbox.itunes.apple.com,extended-matching
+DOMAIN,testflight.apple.com,extended-matching
+DOMAIN,tv.applemusic.com,extended-matching
+DOMAIN,uts-api.itunes.apple.com,extended-matching
+DOMAIN-SUFFIX,apple-dns.net,extended-matching
+DOMAIN-SUFFIX,apple.news,extended-matching
+DOMAIN-SUFFIX,audio-ssl.itunes.apple.com,extended-matching
+DOMAIN-SUFFIX,blobstore.apple.com,extended-matching
+DOMAIN-SUFFIX,cdn-apple.com,extended-matching
+DOMAIN-SUFFIX,hls-amt.itunes.apple.com,extended-matching
+DOMAIN-SUFFIX,hls.itunes.apple.com,extended-matching
+DOMAIN-SUFFIX,ocsp.apple.com,extended-matching
+DOMAIN-SUFFIX,safebrowsing.apple,extended-matching
+DOMAIN-SUFFIX,tv.apple.com,extended-matching
+USER-AGENT,AppleNews*
+USER-AGENT,AppleTV*
+USER-AGENT,com.apple.news*
+USER-AGENT,com.apple.trustd*
+USER-AGENT,com.apple.tv*
+DOMAIN,ns.itunes.apple.com,extended-matching
+DOMAIN,updates-http.cdn-apple.com,extended-matching
+DOMAIN,updates.cdn-apple.com,extended-matching
+DOMAIN,xp.apple.com,extended-matching
+DOMAIN-SUFFIX,appldnld-lb.apple.com.akadns.net,extended-matching
+DOMAIN-SUFFIX,appldnld.apple.com,extended-matching
+DOMAIN-SUFFIX,appldnld.apple.com.akadns.net,extended-matching
+DOMAIN-SUFFIX,appldnld.g.aaplimg.com,extended-matching
+DOMAIN-SUFFIX,gdmf.apple.com,extended-matching
+DOMAIN-SUFFIX,gdmf.apple.com.akadns.net,extended-matching
+DOMAIN-SUFFIX,gg.apple.com,extended-matching
+DOMAIN-SUFFIX,mesu-cdn.apple.com.akadns.net,extended-matching
+DOMAIN-SUFFIX,mesu-cdn.origin-apple.com.akadns.net,extended-matching
+DOMAIN-SUFFIX,mesu.apple.com,extended-matching
+DOMAIN-SUFFIX,mesu.g.aaplimg.com,extended-matching
+DOMAIN-SUFFIX,ocsp-lb.apple.com.akadns.net,extended-matching
+DOMAIN-SUFFIX,ocsp.g.aaplimg.com,extended-matching
+DOMAIN-SUFFIX,swscan.apple.com,extended-matching
