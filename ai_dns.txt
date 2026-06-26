@@ -484,28 +484,16 @@ DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,openaicom-api
 DOMAIN-KEYWORD,paypal
 DOMAIN-KEYWORD,stripe
-IP-CIDR,24.199.123.28/32,no-resolve
-IP-CIDR,64.23.132.171/32,no-resolve
-IP-ASN,14061,no-resolve
-IP-ASN,20473,no-resolve
-USER-AGENT,PayPal*
-
 DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,statsigapi.net
 DOMAIN,browser-intake-us5-datadoghq.com
 DOMAIN-KEYWORD,datadog
 DOMAIN-KEYWORD,sift
-IP-CIDR,160.79.104.0/21,no-resolve
-IP-CIDR6,2607:6bc0::/32,no-resolve
-IP-ASN,399358,no-resolve
-# CDN 和静态资源
 DOMAIN,servd-anthropic-website.b-cdn.net
 DOMAIN,anthropic.com.cdn.cloudflare.net
-# 认证 / 内容
 DOMAIN,anthropic.auth0.com
 DOMAIN,anthropic-com.ghost.io
-# 客服 / 第三方 widget
 DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,intercomcdn.com
 DOMAIN,cdn.usefathom.com
