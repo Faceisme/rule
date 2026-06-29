@@ -1,7 +1,3 @@
-# NAME: Douyin
-# AUTHOR: MerCi
-# UPDATED: 2026-06-26
-# DESCRIPTION: Mainland Douyin / ByteDance China related domains for Surge rule-set
 
 # > Douyin Core
 DOMAIN-SUFFIX,douyin.com
@@ -9,13 +5,14 @@ DOMAIN-SUFFIX,douyin.com.cn
 DOMAIN-SUFFIX,douyinapp.com
 DOMAIN-SUFFIX,amemv.com
 
-# > Douyin CDN / Static / Video
+# > Douyin CDN / Static / Video / Live
 DOMAIN-SUFFIX,douyincdn.com
 DOMAIN-SUFFIX,douyinpic.com
 DOMAIN-SUFFIX,douyinstatic.com
 DOMAIN-SUFFIX,douyinvod.com
 DOMAIN-SUFFIX,idouyinvod.com
 DOMAIN-SUFFIX,douyinliving.com
+DOMAIN-SUFFIX,douyinlive.com
 DOMAIN-SUFFIX,douyinact.com
 DOMAIN-SUFFIX,douyinact.com.cn
 
@@ -72,8 +69,6 @@ DOMAIN-SUFFIX,oceanengine.com.cn
 DOMAIN-SUFFIX,jinritemai.com
 DOMAIN-SUFFIX,temaiapi.com
 DOMAIN-SUFFIX,ecombdapi.com
-
-# > Pangolin / Pangle Ads SDK
 DOMAIN-SUFFIX,pangle.cn
 DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
 DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
@@ -85,7 +80,3 @@ DOMAIN-SUFFIX,pglstatp-toutiao-b.com
 # > Volcengine / Volcano Engine
 DOMAIN-SUFFIX,volces.com
 DOMAIN-SUFFIX,volcengine.com
-
-# > Specific Domains
-DOMAIN,lf3-static.bytednsdoc.com
-DOMAIN,v5-dy-o-abtest.zjcdn.com
