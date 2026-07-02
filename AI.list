@@ -290,9 +290,12 @@ DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,openai.azure.com
 DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,oaistatsig.com
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,openaicom.imgix.net
 DOMAIN-SUFFIX,sora.com
+DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,workos.com
 # --- DOMAIN-KEYWORD ---
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,openaicom-api
