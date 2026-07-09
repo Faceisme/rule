@@ -845,3 +845,26 @@ DOMAIN-KEYWORD,colab
 DOMAIN-KEYWORD,developerprofiles
 DOMAIN-KEYWORD,generativeai
 DOMAIN-KEYWORD,generativelanguage
+
+
+ 
+
+# ===== Grok Web / App =====
+DOMAIN-SUFFIX,grok.com
+
+# ===== xAI Official / API =====
+DOMAIN-SUFFIX,x.ai
+DOMAIN,api.x.ai
+DOMAIN,accounts.x.ai
+DOMAIN,console.x.ai
+DOMAIN,docs.x.ai
+
+# ===== API / Developer related =====
+DOMAIN-SUFFIX,docs.x.ai
+DOMAIN-SUFFIX,api.x.ai
+DOMAIN-SUFFIX,console.x.ai
+DOMAIN-SUFFIX,accounts.x.ai
+
+# ===== Keyword fallback =====
+DOMAIN-KEYWORD,grok
+
