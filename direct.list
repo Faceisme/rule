@@ -10,7 +10,7 @@ DOMAIN-SUFFIX,hsbc.com.proxy
 IP-CIDR,43.134.104.9/32 
 IP-CIDR,43.213.244.28/32 
 # DOMAIN-SUFFIX,qq.com
-
+DOMAIN-SUFFIX,zaobao.com
 
 # Local Services
 DOMAIN-SUFFIX,direct.zspace.link
