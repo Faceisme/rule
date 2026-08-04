@@ -1,0 +1,22 @@
+# NAME: YouTube
+# TYPE: Surge Rule Set
+# FORMAT: no policy name
+# GENERATED: 2026-08-04
+# NOTE: YouTube web, embeds, thumbnails, and video-delivery domains.
+# LOAD ORDER: AI, then YouTube, then Google.
+
+# --- DOMAIN-SUFFIX ---
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,withyoutube.com
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,youtube-nocookie.com
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,youtubeeducation.com
+DOMAIN-SUFFIX,youtubegaming.com
+DOMAIN-SUFFIX,youtubekids.com
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,yt.be
+
+# --- DOMAIN-KEYWORD ---
+DOMAIN-KEYWORD,googlevideo
+DOMAIN-KEYWORD,youtube
