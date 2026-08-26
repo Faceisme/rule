@@ -5,6 +5,9 @@
 # NOTE: Combined Google, Gemini, Google AI, and Drive services. YouTube is excluded.
 # LOAD ORDER: AI, then YouTube, then Google.
 
+
+DOMAIN-SUFFIX,seesaawiki.jp
+
 # --- DOMAIN-SUFFIX ---
 DOMAIN-SUFFIX,abc.xyz
 DOMAIN-SUFFIX,android.com
