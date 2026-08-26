@@ -1,0 +1,20 @@
+# Oracle Cloud / OCI（商业区，OC1）
+# 在 Surge 的 [Rule] 中通过 RULE-SET 引用此文件；不要使用 DOMAIN-SET。
+# 例：RULE-SET,https://<你的地址>/OracleCloud.list,OracleCloud
+#
+# 不包含 OCI 全部公网 IP 段：这些段会频繁更新，且会把其他 OCI 客户的实例流量一并匹配。
+
+# OCI 控制台、IAM、各区域 API、Object Storage 传统端点
+DOMAIN-SUFFIX,oraclecloud.com
+
+# OCI Object Storage 专用/双栈端点（*.oci.customer-oci.com）
+DOMAIN-SUFFIX,customer-oci.com
+
+# OCI 控制台官方要求的依赖域名
+DOMAIN-SUFFIX,oracle.com
+DOMAIN-SUFFIX,oracleinfinity.io
+DOMAIN,oracle.112.2o7.net
+DOMAIN,consent.trustarc.com
+
+# Oracle Cloud PaaS/Autonomous Database 等应用服务端点
+DOMAIN-SUFFIX,oraclecloudapps.com
