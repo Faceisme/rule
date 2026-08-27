@@ -52,4 +52,4 @@ USER-AGENT,locationd*
 USER-AGENT,passd*
 
 
-IP-ASN,714
+IP-ASN,714,no-resolve
