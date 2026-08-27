@@ -50,3 +50,6 @@ USER-AGENT,fmflocatord*
 USER-AGENT,geod*
 USER-AGENT,locationd*
 USER-AGENT,passd*
+
+
+IP-ASN,714
