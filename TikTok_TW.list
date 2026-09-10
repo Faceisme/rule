@@ -27,3 +27,4 @@ DOMAIN-SUFFIX,bytegecko-i18n.com
 DOMAIN-KEYWORD,playio1
 DOMAIN-KEYWORD,playno
 
+IP-CIDR,43.213.244.28/32,no-resolve
