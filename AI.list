@@ -1,10 +1,32 @@
-# NAME: AI
-# TYPE: Surge Rule Set
-# FORMAT: no policy name
-# GENERATED: 2026-08-04
-# NOTE: Non-Google AI and developer services. Google, Gemini, and YouTube are excluded.
-# LOAD ORDER: AI, then YouTube, then Google.
-# GROUPING: Rules are reorganized by provider; Claude includes official IP fallback rules.
+# ===== IP-CIDR =====
+IP-CIDR,120.232.181.162/32,no-resolve
+IP-CIDR,120.241.147.226/32,no-resolve
+IP-CIDR,120.253.253.226/32,no-resolve
+IP-CIDR,120.253.255.162/32,no-resolve
+IP-CIDR,120.253.255.34/32,no-resolve
+IP-CIDR,120.253.255.98/32,no-resolve
+IP-CIDR,160.79.104.0/21,no-resolve
+IP-CIDR,180.163.150.162/32,no-resolve
+IP-CIDR,180.163.150.34/32,no-resolve
+IP-CIDR,180.163.151.162/32,no-resolve
+IP-CIDR,180.163.151.34/32,no-resolve
+IP-CIDR,203.208.39.0/24,no-resolve
+IP-CIDR,203.208.40.0/24,no-resolve
+IP-CIDR,203.208.41.0/24,no-resolve
+IP-CIDR,203.208.43.0/24,no-resolve
+IP-CIDR,203.208.50.0/24,no-resolve
+IP-CIDR,220.181.174.162/32,no-resolve
+IP-CIDR,220.181.174.226/32,no-resolve
+IP-CIDR,220.181.174.34/32,no-resolve
+IP-CIDR,24.199.123.28/32,no-resolve
+IP-CIDR,64.23.132.171/32,no-resolve
+# ===== IP-CIDR6 =====
+IP-CIDR6,2607:6bc0::/32,no-resolve
+# ===== IP-ASN =====
+IP-ASN,14061
+IP-ASN,20473
+IP-ASN,399358
+
 
 # ===== OpenAI / ChatGPT / Sora =====
 # OpenAI 的网页、API、静态资源、存储与验证依赖。
