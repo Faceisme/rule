@@ -1,22 +1,10 @@
-DOMAIN-KEYWORD,huacloud
 DOMAIN-SUFFIX,oyunfor.com
 DOMAIN-KEYWORD,flowercloud
-DOMAIN-SUFFIX,antbank.proxy
 DOMAIN-KEYWORD,torrent
-DOMAIN-KEYWORD,zspeace
 DOMAIN-SUFFIX,za.group
 DOMAIN-SUFFIX,hsbc.com.proxy
-# DOMAIN-SUFFIX,aliyuncs.com
-IP-CIDR,43.134.104.9/32 
-# DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,zaobao.com
 
-# Local Services
-DOMAIN-SUFFIX,direct.zspace.link
-DOMAIN-SUFFIX,local
-DOMAIN-SUFFIX,lan
+ 
 
-IP-CIDR,192.168.0.0/16
-IP-CIDR,10.0.0.0/8
-IP-CIDR,172.16.0.0/12
-IP-CIDR,179.253.244.184/32
+ 
