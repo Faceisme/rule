@@ -82,6 +82,7 @@ DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,statsigapi.net
 DOMAIN,browser-intake-us5-datadoghq.com
 DOMAIN-KEYWORD,datadog
+DOMAIN-KEYWORD,datadoghq
 DOMAIN-KEYWORD,sift
 # --- 客服 / 第三方 widget ---
 # Intercom 与 Fathom 依赖。
